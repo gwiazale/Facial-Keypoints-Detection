@@ -11,7 +11,8 @@ Effects of working with Facial Keypoints Detection dataset from Kaggle competiti
 
 ## Installation
 
-Install Facial-Keypoints-Detection with npm after downloading it to your computer, unzipping it and open a project folder in your terminal.
+Firstly, download dataset according to a instruction in URL in Data sources section of this README.
+Next, install Facial-Keypoints-Detection with npm after downloading it to your computer, unzipping it and open a project folder in your terminal.
 
 ```bash
   npm install Facial-Keypoints-Detection
@@ -51,27 +52,27 @@ Parametrs of the models were improved with my Google Colab project, where is a s
 
 Results of training and validating the first model:
 
-![Alt text](Results of model 1.png?raw=true "Results of model 1")
+![ScreenShot](Results of model 1.png?raw=true "Results of model 1")
 
 Predicting (x, y) locations of eyes, nose and mouth for the first model performs:
 
-![Alt text](Predictions of model 1.png?raw=true "Prediction of model 1")
+![ScreenShot](Predictions of model 1.png?raw=true "Prediction of model 1")
 
 Results of training and validating the second model:
 
-![Alt text](Results of model 2.png?raw=true "Results of model 2")
+![ScreenShot](Results of model 2.png?raw=true "Results of model 2")
 
 Predicting (x, y) locations of eyes, nose and mouth for the second model performs:
 
-![Alt text](Predictions of model 2.png?raw=true "Predictions of model 2")
+![ScreenShot](Predictions of model 2.png?raw=true "Predictions of model 2")
 
 Results of training and validating the third model:
 
-![Alt text](Results of model 3.png?raw=true "Results of model 3")
+![ScreenShot](Results of model 3.png?raw=true "Results of model 3")
 
 Predicting (x, y) locations of eyes, nose and mouth for the third model performs:
 
-![Alt text](Predictions of model 3.png?raw=true "Predictions of model 3")
+![ScreenShot](Predictions of model 3.png?raw=true "Predictions of model 3")
 
 ## Future work
 
