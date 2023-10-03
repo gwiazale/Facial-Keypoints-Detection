@@ -12,10 +12,10 @@ Effects of working with Facial Keypoints Detection dataset from Kaggle competiti
 ## Installation
 
 Firstly, download dataset according to a instruction in URL in Data sources section of this README.
-Next, install Facial-Keypoints-Detection with npm after downloading it to your computer, unzipping it and open a project folder in your terminal.
+Next, install Facial-Keypoints-Detection with git after downloading it to your computer, unzipping it and open a project folder in your terminal.
 
 ```bash
-  npm install Facial-Keypoints-Detection
+  git clone https://github.com/gwiazale/Facial-Keypoints-Detection.git
 ```
 After that, just open it in your favourite enviroment.    
 ## Data sources
@@ -68,11 +68,11 @@ Predicting (x, y) locations of eyes, nose and mouth for the second model perform
 
 Results of training and validating the third model:
 
-![image](https://github.com/gwiazale/Facial-Keypoints-Detection/blob/fb3652d6abaf087eeba52e16c7e0e11e30e6fc2a/Predictions%20of%20model%203.png)
+![image](https://github.com/gwiazale/Facial-Keypoints-Detection/blob/fb3652d6abaf087eeba52e16c7e0e11e30e6fc2a/Results%20of%20model%203.png)
 
 Predicting (x, y) locations of eyes, nose and mouth for the third model performs:
 
-![image](https://github.com/gwiazale/Facial-Keypoints-Detection/blob/fb3652d6abaf087eeba52e16c7e0e11e30e6fc2a/Results%20of%20model%203.png)
+![image](https://github.com/gwiazale/Facial-Keypoints-Detection/blob/fb3652d6abaf087eeba52e16c7e0e11e30e6fc2a/Predictions%20of%20model%203.png)
 
 ## Future work
 
