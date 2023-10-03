@@ -56,7 +56,7 @@ Results of training and validating the first model:
 
 Predicting (x, y) locations of eyes, nose and mouth for the first model performs:
 
-Predictions of model 1.png
+[Predictions of model 1.png](https://github.com/gwiazale/Facial-Keypoints-Detection/blob/e5d663a053a7193d24f7b101c8b23c02e8d3b14e/Predictions%20of%20model%201.png)
 
 Results of training and validating the second model:
 
