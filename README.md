@@ -22,7 +22,6 @@ After that, just open it in your favourite enviroment.
  - [Source of the dataset](https://www.kaggle.com/competitions/facial-keypoints-detection/data)
 
 
-
 ## Code structure
 
 1. Import packages
@@ -52,27 +51,27 @@ Parametrs of the models were improved with my Google Colab project, where is a s
 
 Results of training and validating the first model:
 
-![Alt text](/Facial-Keypoints-Detection/Results of model 1.png?raw=true "Results of model 1")
+![Alt text](Results of model 1.png?raw=true "Results of model 1")
 
 Predicting (x, y) locations of eyes, nose and mouth for the first model performs:
 
-![Alt text](/Facial-Keypoints-Detection/Prediction of model 1.png?raw=true "Prediction of model 1")
+![Alt text](Predictions of model 1.png?raw=true "Prediction of model 1")
 
 Results of training and validating the second model:
 
-![Alt text](/Facial-Keypoints-Detection/Results of model 2.png?raw=true "Results of model 2")
+![Alt text](Results of model 2.png?raw=true "Results of model 2")
 
 Predicting (x, y) locations of eyes, nose and mouth for the second model performs:
 
-![Alt text](/Facial-Keypoints-Detection/Predictions of model 2.png?raw=true "Predictions of model 2")
+![Alt text](Predictions of model 2.png?raw=true "Predictions of model 2")
 
 Results of training and validating the third model:
 
-![Alt text](/Facial-Keypoints-Detection/Results of model 3.png?raw=true "Results of model 3")
+![Alt text](Results of model 3.png?raw=true "Results of model 3")
 
 Predicting (x, y) locations of eyes, nose and mouth for the third model performs:
 
-![Alt text](/Facial-Keypoints-Detection/Predictions of model 3.png?raw=true "Predictions of model 3")
+![Alt text](Predictions of model 3.png?raw=true "Predictions of model 3")
 
 ## Future work
 
