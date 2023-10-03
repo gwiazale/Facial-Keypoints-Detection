@@ -52,7 +52,7 @@ Parametrs of the models were improved with my Google Colab project, where is a s
 
 Results of training and validating the first model:
 
-![ScreenShot](Results of model 1.png?raw=true "Results of model 1")
+![image](https://github.com/gwiazale/Facial-Keypoints-Detection/blob/fb3652d6abaf087eeba52e16c7e0e11e30e6fc2a/Results%20of%20model%201.png)
 
 Predicting (x, y) locations of eyes, nose and mouth for the first model performs:
 
@@ -60,19 +60,19 @@ Predicting (x, y) locations of eyes, nose and mouth for the first model performs
 
 Results of training and validating the second model:
 
-![ScreenShot](Results of model 2.png?raw=true "Results of model 2")
+![image](https://github.com/gwiazale/Facial-Keypoints-Detection/blob/fb3652d6abaf087eeba52e16c7e0e11e30e6fc2a/Results%20of%20model%202.png)
 
 Predicting (x, y) locations of eyes, nose and mouth for the second model performs:
 
-![ScreenShot](Predictions of model 2.png?raw=true "Predictions of model 2")
+![image](https://github.com/gwiazale/Facial-Keypoints-Detection/blob/fb3652d6abaf087eeba52e16c7e0e11e30e6fc2a/Predictions%20of%20model%202.png)
 
 Results of training and validating the third model:
 
-![ScreenShot](Results of model 3.png?raw=true "Results of model 3")
+![image](https://github.com/gwiazale/Facial-Keypoints-Detection/blob/fb3652d6abaf087eeba52e16c7e0e11e30e6fc2a/Predictions%20of%20model%203.png)
 
 Predicting (x, y) locations of eyes, nose and mouth for the third model performs:
 
-![ScreenShot](Predictions of model 3.png?raw=true "Predictions of model 3")
+![image](https://github.com/gwiazale/Facial-Keypoints-Detection/blob/fb3652d6abaf087eeba52e16c7e0e11e30e6fc2a/Results%20of%20model%203.png)
 
 ## Future work
 
