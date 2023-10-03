@@ -56,7 +56,7 @@ Results of training and validating the first model:
 
 Predicting (x, y) locations of eyes, nose and mouth for the first model performs:
 
-![ScreenShot](Predictions of model 1.png?raw=true "Prediction of model 1")
+Predictions of model 1.png
 
 Results of training and validating the second model:
 
